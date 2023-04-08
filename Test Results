@@ -1,1 +1,3 @@
-Overall, LightSort performs better that the normal Quicksort. A simple test shows that for a million randomized numbers, LightSort leads by 0.1 seconds. The algorithm was implemented in python for readabilty but can be adapted to other laguage for more efficient and stable performance.
+Overall, LightSort performs better that the normal Quicksort. A simple test shows that for a million 
+randomized numbers(range 0~1000), LightSort leads by 31 seconds. 
+The algorithm was implemented in python for readabilty but can be adapted to other laguage for more efficient and stable performance.
